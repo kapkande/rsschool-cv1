@@ -28,7 +28,7 @@
     </script>
 ---
 ## Experience ## 
-#### I don't have one. Once I made a [website](https://kapkande.github.io/3005/ for myself
+#### I don't have one. Once I made a [website](https://kapkande.github.io/3005/) for myself
 
 ---
 ## Education ##
