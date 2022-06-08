@@ -28,8 +28,8 @@
     </script>
 ---
 ## Experience ## 
-#### I don't have one. Once I made a website for myself
-#### [myWebsite](https://kapkande.github.io/3005/) 
+#### I don't have one. Once I made a [website](https://kapkande.github.io/3005/ for myself
+
 ---
 ## Education ##
 #### Belarusian State College of Electronics, specialty "Electrical Technician"
